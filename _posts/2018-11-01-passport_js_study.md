@@ -10,7 +10,7 @@ date:   2018-11-01 01:53:00 +0900
 $ npm install passport --save
 ```
 
-![install_cmd]({{site.baseurl}}/assets/install_cmd.PNG)
+![install_cmd](https://jdj9354.github.io/DJJang-Dev-Study/assets/install_cmd.PNG)
 
 ![package_capture]({{site.baseurl}}/assets/package_capture.PNG)
 

@@ -16,6 +16,7 @@ $ npm install passport --save
 
 
 > ## Strategy
+
 As I undestand, strategy means specific authentication policy and implementation.
 There are many strategy on http://www.passportjs.org/packages/
 (502 startegies 2018-11-04)

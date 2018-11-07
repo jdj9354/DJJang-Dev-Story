@@ -10,9 +10,9 @@ date:   2018-11-01 01:53:00 +0900
 $ npm install passport --save
 ```
 
-![install_cmd](https://jdj9354.github.io/DJJang-Dev-Study/assets/install_cmd.PNG)
+![install_cmd](/assets/install_cmd.PNG)
 
-![package_capture](https://jdj9354.github.io/DJJang-Dev-Study/assets/package_capture.PNG)
+![package_capture](/assets/package_capture.PNG)
 
 
 > ## Strategy
@@ -101,9 +101,9 @@ Register your endpoint for google auth and callback for Google auth.
 Then, you can confirm your simple Google OAuth processed on your end point.
 
 
-![login](https://jdj9354.github.io/DJJang-Dev-Study/assets/login.PNG)
+![login](/assets/login.PNG)
 
 
-![googlelogin](https://jdj9354.github.io/DJJang-Dev-Study/assets/googlelogin.png)
+![googlelogin](/assets/googlelogin.png)
 
-![indexpage](https://jdj9354.github.io/DJJang-Dev-Study/assets/indexpage.PNG)
+![indexpage](/assets/indexpage.PNG)

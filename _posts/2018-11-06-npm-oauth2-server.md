@@ -30,6 +30,7 @@ If you don't implement optional method, oauth2-server provide its default fucnti
 |generateAuthorizationCode(client, user, scope, [callback])|X|Generate a new AuthorizationCode|
 |getAccessToken(accessToken, [callback])|O|Retrieve saved token|
 
+<br>
 
 ---
 ## Client vs User

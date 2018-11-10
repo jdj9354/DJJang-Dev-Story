@@ -22,12 +22,15 @@ Model is something like interface to estalbish oauth2 server.
 npm oauth2-server contains following functions.
 It contains mandatory / optional functions.
 If you don't implement optional method, oauth2-server provide its default fucntion.
+
 |Function|isMandatory|Description|
 |---|---|---|
 |generateAccessToken(client, user, scope, [callback])|X|Generate a new token|
 |generateRefreshToken(client, user, scope, [callback])|X|Refresh a new token|
 |generateAuthorizationCode(client, user, scope, [callback])|X|Generate a new AuthorizationCode|
 |getAccessToken(accessToken, [callback])|O|Retrieve saved token|
+
+
 ---
 ## Client vs User
 

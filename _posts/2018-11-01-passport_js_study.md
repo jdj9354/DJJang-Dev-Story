@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Passport.js study"
+comments: true
+categories: auth
 date:   2018-11-01 01:53:00 +0900
 ---
 

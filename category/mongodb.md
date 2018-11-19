@@ -1,4 +1,4 @@
 ---
-layout:category
-title:mongodb
+layout: category
+title: mongodb
 ---

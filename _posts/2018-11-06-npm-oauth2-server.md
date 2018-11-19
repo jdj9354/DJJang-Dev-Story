@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "oauth2-server npm study"
+comments: true
+categories: auth
 date:   2018-11-06 00:04:00 +0900
 ---
 

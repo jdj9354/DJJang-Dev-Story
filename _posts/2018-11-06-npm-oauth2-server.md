@@ -47,13 +47,24 @@ If you don't implement optional method, oauth2-server provide its default fucnti
 
 <br>
 
+> ## OAuth 2.0 base knoledge
 ---
-## Client vs User
 
-### Client
-3rd Party apps/servies which utilize oauth system.
-
-### User
-Actual users who use the 3rd party app/service.
 
 ---
+## Grant type
+Grant type means how to grant request for auth.
+There are several grant types, and these are basic grant types.
+
+
+### 1. Authorization Code
+### 2. Implicit
+### 3. Password
+### 4. Client Credentials
+### 5. Device Code
+### 6. Refresh Token
+
+---
+
+I used mongodb as storing various information
+(User, Client, Token, AUthCode)

@@ -85,6 +85,7 @@ Third digit
 Pop : 0,9,72,81,96,125,274,383
 
 > ## Time Complexity
+
 Although Radix sort need additional Memory, its Time Complexity is very good.
 In case of integer, it is very fast.
 

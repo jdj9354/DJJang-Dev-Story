@@ -7,10 +7,10 @@ date:   2018-11-06 00:04:00 +0900
 ---
 
 > ## oauth2-server study
-![oauth2-server-npm](/assets/oauth2-server-npm.PNG)
+![oauth2-server-npm]({{site.url}}/assets/oauth2-server-npm.PNG)
 
 > ## Installation & Document
-![oauth2-install](/assets/oauth2-install.PNG)
+![oauth2-install]({{site.url}}/assets/oauth2-install.PNG)
 Document
 https://oauth2-server.readthedocs.io/en/latest/
 

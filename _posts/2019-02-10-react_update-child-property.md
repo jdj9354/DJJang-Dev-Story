@@ -2,7 +2,7 @@
 layout: post
 title:  "React Update Child Property"
 comments: true
-categories: react
+categories: React
 date:   2019-02-10 21:26:00 +0900
 ---
 
